@@ -2,7 +2,7 @@
     Author: Joker-Security [ dev-labs ]
 
 ## Description:
-    Simple tool You drag login name administrator and the version website wordpress
+    Simple tool To find login name administrator and the version website wordpress
  
 ## Screenshot:
 ![pic1](https://i.imgur.com/rKUguKr.png)
