@@ -17,8 +17,7 @@
       
 
 ## video tutorial: 
-https://asciinema.org/a/OxkmJ1hmFWwu62yT6dVfCOO3S
-
+<a href="https://asciinema.org/a/OxkmJ1hmFWwu62yT6dVfCOO3S" target="_blank"><img src="https://asciinema.org/a/OxkmJ1hmFWwu62yT6dVfCOO3S.png" /></a>
 ## About:
 
 ★ WEBSITE : http://dev-labs.co
