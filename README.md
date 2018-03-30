@@ -1,4 +1,4 @@
-## WP_Enum . 
+## WP_Enum . | <img src="https://img.shields.io/badge/i-WP_Enum-red.svg">
     Author: Joker-Security [ dev-labs ]
 
 ## Description:
